@@ -16,10 +16,11 @@ A RESTful backend service and machine learning forecasting engine designed for s
 * **Machine Learning & Data:** Scikit-learn, Pandas, NumPy
 * **Validation:** Pydantic v2
 
-## Quick Start
+---
 
-1. **Clone the repository & install dependencies:**
+## Quick Start (Installation & Setup)
+
+1. **Clone the repository & navigate to the project folder:**
    ```bash
    git clone [https://github.com/mdramjanalimondol002/smart-expense-api.git](https://github.com/mdramjanalimondol002/smart-expense-api.git)
    cd smart-expense-api
-   pip install -r requirements.txt
